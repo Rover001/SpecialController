@@ -1,0 +1,6 @@
+framework module SpecialController {
+  umbrella header "SpecialController.h"
+
+  export *
+  module * { export * }
+}
